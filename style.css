@@ -1,0 +1,43 @@
+* {
+  padding: 0;
+  margin: 0;
+ 
+  
+
+
+}
+
+
+.maincontainer{
+  height: 400px;
+  width: 500px;
+  border:1px solid red;
+  justify-content: center;
+  display: grid;
+  font-display: 50px;
+ 
+  
+  
+
+}
+.header{
+
+  display: flex;
+  background-color: rgba(27, 6, 219, 0.952);
+  font-style: italic;
+  border-radius: 10px;
+  
+}
+
+.num{
+  display: flex;
+  justify-content: center;
+  background-color: rgba(27, 6, 219, 0.952);
+  left: auto;
+  color: rgb(228, 6, 36);
+  font-style: italic;
+  border-radius: 10px;
+  font-style: italic;
+
+  
+}
